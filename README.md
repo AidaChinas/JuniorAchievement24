@@ -1,1 +1,1 @@
-# JuniorAchievement24
+Este es mi primer proyecto de prueba creado como parte de mi proceso de aprendizaje en Junior Achievement utilizando conpectos básicos de HTML y CSS principalmente, incluí botones con Javascript para mostrar y ocultar texto.
